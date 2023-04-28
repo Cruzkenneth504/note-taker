@@ -30,13 +30,11 @@ Requirer is used in this project as a dependency management tool to manage the p
 - Mozilla Firefox
 - Internet Explorer
 
-
 # Usage 
 
 ## Click Link below:
 
 [Visit Note Taker](https://deploy-my-note-taker.herokuapp.com/)
-
 
 ## Images
 
@@ -79,11 +77,11 @@ Requirer is used in this project as a dependency management tool to manage the p
 * [UCB BootCamp](https://bootcamp.berkeley.edu/)
 * [DevTools](https://dev.to/)
 * [Youtube](https://www.youtube.com/)
-* [Bootcamp Inatructors](https://bootcamp.berkeley.edu/)
+* [Bootcamp Instructors](https://bootcamp.berkeley.edu/)
 * [Tutors]( https://tinyurl.com/BootCampTutorTeam)
  
 
 ## Test video
 
-- [cruzkenneth504-Youtube-Jest]() 
+- [cruzkenneth504-Youtube]() 
 
