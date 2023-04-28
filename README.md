@@ -1,4 +1,4 @@
-# SVG Logo Generator
+# NOTE TAKER
 
 ## Description 
 
@@ -20,30 +20,22 @@ Requirer is used in this project as a dependency management tool to manage the p
 
 ## Installation
 
-### Node JS
+**Install or open the internet browser of your choice.**
 
-1. Download and install the Node.js package from the official website: https://nodejs.org/en/
-2. Follow the instructions on the website to install the package. 
-3. Once installed, open the terminal of your operating system to confirm that Node.js has been successfully installed by typing 'node -v' and press enter. This should return the version number of Node.js installed. 
-4. Congratulations! You have successfully set up Node.js.  
+*  **Examples Below:**
 
-### RequireJS:
-
-1. Open your project in the terminal/command prompt
-2. Type the following command: npm install requirejs
-3. Press Enter to install the package.
-4. RequireJS is now installed in your project.
- [Visit Requirer](https://requirejs.org/)
-
-### Jest:
-
+- Google Chrome
+- Safari
+- OPera
+- Mozilla Firefox
+- Internet Explorer
 
 
 # Usage 
 
-## Video guide for application usage
+## Click Link below:
 
- 
+[Visit Note Taker](https://deploy-my-note-taker.herokuapp.com/)
 
 
 ## Images
@@ -78,7 +70,7 @@ Requirer is used in this project as a dependency management tool to manage the p
 ## **Author**
 
 * **Kenneth Cruz** 
- 
+- [Link to Repo] (https://github.com/Cruzkenneth504/note-taker)
 - [Link to Github](https://github.com/cruzkenneth504)
 - [Link to LinkedIn](linkedin.com/in/cruzkenneth504)
 
