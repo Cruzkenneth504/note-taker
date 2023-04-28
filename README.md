@@ -2,12 +2,9 @@
 
 ## Description 
 
-
-
-### **Requirer**
-Requirer is used in this project as a dependency management tool to manage the project's dependencies. It simplifies the process of installing and updating dependencies by providing a centralized way to manage them. This helps to ensure that the project uses the correct versions of its dependencies and that they are up-to-date.
-
-
+ The purpose of creating a note-taking application using Express.js is to provide users with a convenient way to keep track of their notes and ideas. With the increasing amount of digital information that we encounter on a daily basis, it can be difficult to keep everything organized and easily accessible.
+ By using an app note taker built with Express.js, users can quickly create new notes and edit existing ones from any device with internet access. The app can be used to store important information such as to-do lists, meeting notes, shopping lists, and other personal notes.  
+ 
 ## Table of Contents 
 
 
@@ -80,8 +77,3 @@ Requirer is used in this project as a dependency management tool to manage the p
 * [Bootcamp Instructors](https://bootcamp.berkeley.edu/)
 * [Tutors]( https://tinyurl.com/BootCampTutorTeam)
  
-
-## Test video
-
-- [cruzkenneth504-Youtube]() 
-
